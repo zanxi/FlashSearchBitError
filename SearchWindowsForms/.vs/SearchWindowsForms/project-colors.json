@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb6b41a7-5d55-41d5-b5d0-612fc7e3c7a2": {
+      "ProjectGuid": "cb6b41a7-5d55-41d5-b5d0-612fc7e3c7a2",
+      "DisplayName": "ProjectSearchCompareFiles",
+      "ColorIndex": 0
+    },
+    "130b2f48-4782-4eba-90f9-f97359691f47": {
+      "ProjectGuid": "130b2f48-4782-4eba-90f9-f97359691f47",
+      "DisplayName": "SearchWindowsForms",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
